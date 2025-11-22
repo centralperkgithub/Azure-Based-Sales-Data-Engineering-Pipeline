@@ -262,6 +262,9 @@ gold_daily_sales.write.format("delta").mode("overwrite").save("abfss://lake@<acc
 ---
 
 ## 📊 Dashboards & Insights
+<img width="1304" height="736" alt="image" src="https://github.com/user-attachments/assets/904865c6-3509-4bdd-a64a-97d18735f1ef" />
+
+
 
 * **KPI Cards:** Total Sales, Transactions, Avg Order Value.
 * **Sales Trends:** Daily/Monthly sales line charts.
@@ -305,11 +308,7 @@ GITHUB_CUSTOMERS_JSON_RAW_URL=
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome!
-
-1. Fork the repo  2) Create a feature branch  3) Open a PR with clear description & screenshots.
 
 
 
